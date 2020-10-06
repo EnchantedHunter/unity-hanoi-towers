@@ -2,7 +2,7 @@
 
 Решение Ханойских Башен на основе движка Unity3d
 
-![Alt text](/imgs/anim.gif?raw=true "Hanoi Towers")
+![Alt text](/Imgs/anim.gif?raw=true "Hanoi Towers")
 
 ---
 
